@@ -1,6 +1,42 @@
-body{
-  background-color: powderblue;
+html, body
+{
+  height: 100%;
+  margin:0;
+  font-size:16px;
+  font-family: "lato"sans serif;
+  font-weight: 400;
+  line-height: 1.8 em;
+  color: #666;
 }
+
+.simg1
+{
+  background-image: url('https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=imgres&cd=&ved=2ahUKEwi2reruttTdAhVpdt8KHQG7C7sQjRx6BAgBEAU&url=https%3A%2F%2Fthesaltypixel.com%2Fprints%2Fnyc-skyline%2F&psig=AOvVaw0rUrTVcBiv-FhScR3MsPv6&ust=1537905577921728');
+  min-height:100%; 
+}
+
+.simg2
+{
+  background-image: url('https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=imgres&cd=&cad=rja&uact=8&ved=2ahUKEwji1ebyttTdAhUDT98KHQFDC7oQjRx6BAgBEAU&url=https%3A%2F%2Ffineartamerica.com%2Ffeatured%2Fnyc-skyline-yogesh-achhra.html&psig=AOvVaw2QlpbvFrb4jWwHnDh-V5H4&ust=1537905586257575');
+  min-height:500px;
+}
+
+.simg1, .simg2, .simg3
+{
+  position: relative;
+  opacity:0;
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+
+.section
+{
+  text-align: center;
+}
+
+
 h1 {
     color: blue;
 }
