@@ -9,6 +9,11 @@ html, body
   color: #666;
 }
 
+.simg
+{
+  background-image: url('https://images.fineartamerica.com/images/artworkimages/mediumlarge/1/nyc-skyline-yogesh-achhra.jpg');
+  min-height:100%; 
+}
 .simg1
 {
   background-image: url('https://images.fineartamerica.com/images/artworkimages/mediumlarge/1/nyc-skyline-yogesh-achhra.jpg');
@@ -21,7 +26,7 @@ html, body
   min-height:500px;
 }
 
-.simg1, .simg2, .simg3
+.simg, .simg1, .simg2, .simg3
 {
   position: relative;
   opacity:0;
