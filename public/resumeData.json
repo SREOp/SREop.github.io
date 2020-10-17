@@ -1,0 +1,43 @@
+{
+  "main": {
+    "name": "Yenyu Huang",
+    "occupation": "IT Technician | Developer on the side",
+    "description": "Committed to programming, and making positive changes in the community  - whether for younger generation or diversity.",
+    "image": "",
+    "bio": "I'm Yenyu Huang, ready for a software engineer position for new challenges in a new environment to broaden my software engineering skills.",
+    "contactmessage": "I can be reached for more details or connect with me for more projects to come.",
+    "email": "yenyu.huang99@gmail.com",
+    "phone": "",
+    "address": {
+      "street": "",
+      "city": "",
+      "state": "NY",
+      "zip": ""
+    },
+    "website": "https://yenyuhuang.github.io/",
+    "resumedownload": "",
+    "social": [
+      {
+      "name": "linkedin",
+      "url": "https://www.linkedin.com/in/YenyuHuang/",
+      "className": "fa fa-linkedin"
+    },
+    {
+      "name": "github",
+      "url": "https://github.com/YenyuHuang",
+      "className": "fa fa-github"
+    }
+    ]
+  },
+
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Mini Twitter App",
+        "category": "Twitter App built with JavaScript, HTML, CSS, Twitter APIs",
+        "image": "twitter-app.png",
+        "url": "https://youtu.be/e2bLjCGBgME"
+      }
+    ]
+  }
+}
